@@ -1,5 +1,5 @@
 import { MongoClient, ObjectId } from 'mongodb';
-import Head from 'next/Head'
+import Head from 'next/head'
 import { Fragment } from 'react';
 import MeetupDetail from '../../components/meetups/MeetupDetail';
 
